@@ -150,7 +150,6 @@ After pushing, open the repository's **Actions** tab. Inspect the workflow resul
 - [ ] Student records and submits their own presentation/video and GitHub evidence
 
 
-I could not compile or execute this project in this environment because .NET SDK and SQL Server are not installed here. Treat it as a prepared project, not a verified passing submission. Build, migrate and run the tests locally and correct any
 
 
 YOUTUBE LINK 
