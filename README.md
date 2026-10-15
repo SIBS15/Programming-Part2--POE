@@ -90,13 +90,9 @@ In Visual Studio, use **Test → Test Explorer → Run All Tests**. The included
 Check installation:
 ```powershell
 git --version
-```
-If missing, install Git for Windows from https://git-scm.com/download/win, then restart Visual Studio.
 
-Set identity once (replace examples):
-```powershell
-git config --global user.name "Your Name"
-git c
+
+
 
 Open **View → Terminal** in Visual Studio and `cd` to the extracted `RaceDay_Part2` folder. Check whether it is already a Git repository:
 ```powershell
