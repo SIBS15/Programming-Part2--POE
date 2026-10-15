@@ -86,19 +86,7 @@ dotnet test
 ```
 In Visual Studio, use **Test → Test Explorer → Run All Tests**. The included tests are starter tests; add and run HTTP integration tests for successful registration/login, duplicate email, invalid credentials, unauthenticated requests, role rejection, event ownership, duplicate enrolment, category/event mismatch and result creation before submission.
 
-## Git install and push to your existing repository
-Check installation:
-```powershell
-git --version
-
-
-
-
-Open **View → Terminal** in Visual Studio and `cd` to the extracted `RaceDay_Part2` folder. Check whether it is already a Git repository:
-```powershell
-git status
-```
-If not a repository:
+ BK
 ```powershell
 git init
 git add .
