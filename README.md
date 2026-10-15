@@ -96,7 +96,7 @@ If missing, install Git for Windows from https://git-scm.com/download/win, then 
 Set identity once (replace examples):
 ```powershell
 git config --global user.name "Your Name"
-git config --global user.email "your-email@example.com"
+git c
 ```
 
 Open **View → Terminal** in Visual Studio and `cd` to the extracted `RaceDay_Part2` folder. Check whether it is already a Git repository:
