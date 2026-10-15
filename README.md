@@ -86,9 +86,7 @@ dotnet test
 ```
 In Visual Studio, use **Test → Test Explorer → Run All Tests**. The included tests are starter tests; add and run HTTP integration tests for successful registration/login, duplicate email, invalid credentials, unauthenticated requests, role rejection, event ownership, duplicate enrolment, category/event mismatch and result creation before submission.
 
- BK
-```powershell
-git init
+
 git add .
 git status
 git commit -m "Initial RaceDay Part 2 API"
