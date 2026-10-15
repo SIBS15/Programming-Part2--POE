@@ -141,9 +141,9 @@ After pushing, open the repository's **Actions** tab. Inspect the workflow resul
 - [ ] GitHub Actions build/test passes
 - [ ] Secure password hashing and required authentication method
 - [ ] Role-based access and ownership checks
-- [ ] All Part 1 planned endpoints tested
+- [ ] All Part 1 planned endpoints tested .
 - [ ] Six tables match Part 1 SQL/ERD, including Payments
-- [ ] EF Core migration created and applied
+- [ ] EF Core migration created and applied 
 - [ ] Swagger tested
 - [ ] Automated tests cover success and failure cases
 - [ ] README and setup instructions complete
